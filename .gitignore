@@ -1,4 +1,4 @@
-.com
-.obj
-.lst
-.map
+*.com
+*.obj
+*.lst
+*.map
